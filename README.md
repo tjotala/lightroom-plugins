@@ -1,8 +1,7 @@
-# Misc plug-ins for Adobe Lightroom
+# Plug-ins for Adobe Lightroom
 
-These are mostly useful for my personal needs. I am posting them here in case they come in handy for others to use as a foundation for their work.
+I have moved the plug-ins to their own individual repositories:
 
-## Getting Started
-
-Adobe Lightroom plug-ins are written in a subset of the [Lua](https://www.lua.org/) language.
-More information is available [here](http://www.adobe.com/devnet/photoshoplightroom.html).
+* [lr-find-artwork](https://github.com/tjotala/lr-find-artwork)
+* [lr-find-duplicates](https://github.com/tjotala/lr-find-duplicates)
+* [lr-copy-iptc-artwork](https://github.com/tjotala/lr-copy-iptc-artwork)
